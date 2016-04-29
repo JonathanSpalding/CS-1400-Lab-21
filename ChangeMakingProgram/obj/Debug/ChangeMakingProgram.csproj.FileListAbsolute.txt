@@ -1,0 +1,6 @@
+c:\users\jon\documents\visual studio 2015\Projects\ChangeMakingProgram\ChangeMakingProgram\bin\Debug\ChangeMakingProgram.exe.config
+c:\users\jon\documents\visual studio 2015\Projects\ChangeMakingProgram\ChangeMakingProgram\bin\Debug\ChangeMakingProgram.exe
+c:\users\jon\documents\visual studio 2015\Projects\ChangeMakingProgram\ChangeMakingProgram\bin\Debug\ChangeMakingProgram.pdb
+c:\users\jon\documents\visual studio 2015\Projects\ChangeMakingProgram\ChangeMakingProgram\obj\Debug\ChangeMakingProgram.csprojResolveAssemblyReference.cache
+c:\users\jon\documents\visual studio 2015\Projects\ChangeMakingProgram\ChangeMakingProgram\obj\Debug\ChangeMakingProgram.exe
+c:\users\jon\documents\visual studio 2015\Projects\ChangeMakingProgram\ChangeMakingProgram\obj\Debug\ChangeMakingProgram.pdb
